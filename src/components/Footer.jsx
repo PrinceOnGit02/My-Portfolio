@@ -20,21 +20,21 @@ export default function Footer() {
 
         <div className="social-links">
           <a
-            href="#"
+            href="https://github.com/PrinceOnGit02"
             aria-label="GitHub"
           >
             GitHub
           </a>
 
           <a
-            href="#"
+            href="https://www.linkedin.com/in/prince-kumar-gupta-090aa03b3?utm_source=share_via&utm_content=profile&utm_medium=member_android"
             aria-label="LinkedIn"
           >
             LinkedIn
           </a>
 
           <a
-            href="#"
+            href="https://www.instagram.com/its_prince_gupta18"
             aria-label="Instagram"
           >
             Instagram
