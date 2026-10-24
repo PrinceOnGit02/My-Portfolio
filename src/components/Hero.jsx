@@ -21,7 +21,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="/PRINCE_KUMAR_RESUME.pdf"
+            href="/Prince resume.pdf"
             download
             className="hero-btn outline"
           >
